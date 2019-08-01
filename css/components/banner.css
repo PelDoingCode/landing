@@ -1,0 +1,43 @@
+.banner-container {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+    box-shadow: 0 10px 30px #2C75FF;
+
+}
+
+.banner-container h1 {
+  color: #3e64ff;
+  padding: 50px;
+
+}
+
+.banner-container p {
+  color: #3e64ff;
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /*align-self: flex-end;*/
+  opacity: .8;
+  font-size: 25px;
+}
+
+/*.banner-container {
+  width: 900px;
+  margin: auto;
+}*/
+/*
+smart test */
+/*.test {
+  height: 200px;
+  width: 300px;
+  background-color: red;
+  color: white;
+}
+
+
+.test:first-child {
+
+}
+*/
